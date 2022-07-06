@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "useUnknownInCatchVariables": false,
+        "target": "ES6",
+        "module": "commonjs",
+        "rootDir": "./",
+        "outDir": "./build",
+        "esModuleInterop": true,
+        "strict": true
+    }
+}
